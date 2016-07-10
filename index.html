@@ -8,7 +8,9 @@
                 margin: auto;
             }
             html, body {
-                background-color: beige;
+                font-family: Arial;
+                background-color: lightpink;
+                text-shadow: 1px 1px 1px white;
             }
             .links > a {
                 border-right: 1px solid black;
@@ -18,25 +20,28 @@
             .links > a:last-child {
                 border-right: none;
             }
-            .header {
+            .headers {
                 position: relative;
                 left: -50px;
                 font-family: Arial;
+                text-shadow: 2px 2px 4px white;
             }
-            .header h1 {
+            .headers h1 {
                 font-size: 82px;
                 color: black;
                 margin-bottom: 10px;
+                font-family: cursive;
             }
-            .header h2 {
+            .headers h2 {
                 font-size: 44px;
                 margin-top: 0px;
-                color: #2e2e2e
+                color: #2e2e2e;
+                font-family: monospace;
             }
         </style>
     </head>
     <body class="pageWrapper">
-        <div class="header">
+        <div class="headers">
             <h1>
               Hey I'm Devin
             </h1>
@@ -45,6 +50,7 @@
             </h1>
         </div>
         <div class="links">
+            Links:
             <a href="http://Github.com/DevinRhode2" title="My favorite site of all time">GitHub</a>
             <a href="http://linkedin.com/in/DevinRhode2">LinkedIn</a>
             <a href="http://stackoverflow.com/users/565877/devin-g-rhode">StackOverflow</a>
@@ -52,7 +58,8 @@
         </div>
 
 
-        <p>I'm actively seeking a position with a company that will allow me to continue to push myself to new heights as a software professional. Please get in touch if you know of such an opportunity.</p>
+        <p id="actively-seeking">I'm actively seeking a position with a company that will allow me to continue to push myself to new heights as a software professional. Please email me at <span id="username">{{username}}</span>@gmail.com if you know of such an opportunity.</p>
+
 
         <p style="font-weight:bold;">Code samples:</p>
         <ul>
@@ -63,6 +70,58 @@
             <a href="https://github.com/devinrhode2/extendFunction.js">extendFunction.js</a>, Decorate functions in JavaScript
           </li>
         </ul>
+<br/>
+        <h1 id="portfolio-link" style="text-align:center;">
+          <a href="https://devinrhode2.github.io/portfolio">PORTFOLIO COMING SOON OK</a>
+        </h1>
 
     </body>
+<script src="node_modules/jquery/dist/jquery.slim.min.js"></script>
+<!--
+step by step snapshot of installing jquery:
+google "jquery 3"
+Cmd+F "npm"
+copy paste this "npm install jquery@3.0.0" add " --save"
+ls node_modules/jquery
+ls node_modules/jquery/dist
+echo "node_modules/jquery/dist/jquery.slim.min.js" | pbcopy
+
+Ok, first I tried pbcopy "node_modules/jquery/dist/jquery.slim.min.js" but it was taking too long, obviously not just throwing it into the clipboard, so I figured out to do pipe the output like I learned in some git/github integration tutorial.
+-->
+<script src="bower_components/typed.js/dist/typed.min.js"></script>
+<!--
+This one I installed pretty flawlessly though.
+-->
+<script>
+  $(function(){
+    $('#username').typed({
+      strings: ['{{username}}^7000', 'devinrhode2'],
+      typeSpeed: 1
+    });
+  });
+
+</script>
+<style>
+  .typed-cursor{
+      opacity: 1;
+      -webkit-animation: blink 0.7s infinite;
+      -moz-animation: blink 0.7s infinite;
+      animation: blink 0.7s infinite;
+  }
+  @keyframes blink{
+      0% { opacity:1; }
+      50% { opacity:0; }
+      100% { opacity:1; }
+  }
+  @-webkit-keyframes blink{
+      0% { opacity:1; }
+      50% { opacity:0; }
+      100% { opacity:1; }
+  }
+  @-moz-keyframes blink{
+      0% { opacity:1; }
+      50% { opacity:0; }
+      100% { opacity:1; }
+  }
+</style>
 </html>
