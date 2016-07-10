@@ -1,0 +1,24 @@
+{
+  "name": "devinrhode2.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "jquery": "^3.0.0",
+    "photoswipe": "^4.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devinrhode2/devinrhode2.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devinrhode2/devinrhode2.github.io/issues"
+  },
+  "homepage": "https://github.com/devinrhode2/devinrhode2.github.io#readme"
+}
