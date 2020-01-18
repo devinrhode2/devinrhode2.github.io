@@ -3,9 +3,14 @@
     <head>
         <title>DevinRhode2.gh.io</title>
         <style>
-            .pageWrapper {
-                width: 800px;
+            body.pageWrapper {
+                max-width: 800px;
                 margin: auto;
+                padding: 15px;
+                text-align: center;
+            }
+            body.pageWrapper > * {
+              text-align: left;
             }
             html, body {
                 font-family: Arial;
@@ -21,8 +26,8 @@
                 border-right: none;
             }
             .headers {
-                position: relative;
-                left: -50px;
+                /* position: relative; */
+                /* left: -50px; */
                 font-family: Arial;
                 text-shadow: 2px 2px 4px white;
             }
@@ -43,10 +48,10 @@
     <body class="pageWrapper">
         <div class="headers">
             <h1>
-              Hey I'm Devin
+              Devin Rhode
             </h1>
             <h2>
-              I &lt;3 new food, simple code, and all forms of exercise
+              Loves: New food, simple code, and all forms of exercise.
             </h2>
         </div>
         <div class="links">
@@ -58,7 +63,10 @@
         </div>
 
 
-        <!-- <p id="actively-seeking">I'm actively seeking a position with a company that will allow me to continue to push myself to new heights as a software professional. Please email me at <span id="username">{{username}}</span>@gmail.com if you know of such an opportunity.</p> -->
+        <p id="actively-seeking">
+          I'm actively seeking a position with a company that will allow me to continue to push myself
+          to new heights as a software professional.
+          Please email me at <span id="will-become-mailto-link"><span id="username">{{username}}</span>@gmail.com</span> if you know of such an opportunity.</p>
 
         <p style="font-weight:bold;">Github highlights:</p>
         <ul>
@@ -84,10 +92,14 @@
 <script src="bower_components/typed.js/dist/typed.min.js"></script>
 <script>
   $(function(){
+    var time = 4500
     $('#username').typed({
-      strings: ['{{username}}^7000', 'devinrhode2'],
+      strings: ['{{username}}^'+time, 'devinrhode2'],
       typeSpeed: 1
     });
+    setTimeout(function() {
+      
+    }, time);
   });
 
 </script>
