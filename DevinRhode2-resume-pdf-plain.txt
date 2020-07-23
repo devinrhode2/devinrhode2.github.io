@@ -12,9 +12,9 @@ I've written thirteen chrome extensions that have been downloaded thousands of t
 • TrackIf.com,short-termcontract.Designedandimplementedinitialversionsof bookmarklet, Chrome and Safari extensions with code-sharing and live update capabilities.
 • VoteBox2012.com,short-termcontract.Partneredwithadesigneranda developer to create this website from scratch using jQuery, PHP, Bootstrap, and Facebook Login.
 • HitMeUp,personalstartupproject.Builtateamanddevelopedthissocial media application for connecting with friends nearby. Used PHP, MySQL, SVN, Twilio and integrated with Facebook via chrome extension.
-• CribFrog,short-termcontract.Collaboratedwiththefounderofthisstartupto prototype the first version of a social application for residential tenants using PHP.
-• Refactr,short-termcontract.Developedachromeextensionandbookmarklet to embed the functionality of their MileMarker product into the browser.
-• SnapSpeedComputerCare,smallbusiness.Mostlyhelpedmoreseniorfolks with their computers while I was in high school.
+• Refactr,Developedachromeextensionandbookmarklettoembedthe functionality of their MileMarker product into the browser.
+• CribFrog,Collaboratedwiththefounderofthisstartuptoprototypethefirst version of a social application for residential tenants using PHP.
+• SnapSpeedComputerCare,helpedpeoplewiththeircomputerswhileIwas in high school.
 Education
 University of Minnesota, Duluth 2010-2011 – Focus: Computer Science, Math
   "I hired Devin to code a chrome extension that had a Facebook SDK integration component, and some non trivial script injection dependencies. Devin powered through the project in record time, and had a good sense for design and usability while doing the trickier coding parts. He is one of the most talented young coders I've ever met."
