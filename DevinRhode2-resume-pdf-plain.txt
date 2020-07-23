@@ -1,6 +1,6 @@
  Devin Rhode, Frontend/JS Developer
 devinrhode2.github.io • (612) 440-5172 • DevinRhode2@gmail.com Greater Minneapolis-St. Paul Area
-JavaScript (ES6) • React • Redux • Browser Extensions • Node.js • Web Scraping Ember • HTML5 • CSS3 • Animation • Linaria CSS in JS • Bootstrap+Foundation Webpack • Babel • Create-React-App+Craco • Gulp+Grunt • Git Hooks+Husky Prettier • ESLint • Stylelint • Accessibility • Http Proxies • Cookies • Cors
+JavaScript (ES6) • React • Redux • Browser Extensions • Node.js • Responsive CSS Ember • HTML5 • Sass+Less • Animation • CSS in JS • Bootstrap • Web Scraping Webpack • Babel • Create-React-App+Craco • Gulp+Grunt • Git Hooks+Husky Prettier • ESLint • Stylelint • Accessibility • Http Proxies • Cookies • Cors
 Git • Github • Gitlab • Jira • Markdown • Basic Ruby+Python+Bash+SQL
 Work History
 BIWORLDWIDE • Jan 24th 2019 - Jan 31st 2020
@@ -20,7 +20,8 @@ I've written 14 chrome extensions receiving 1,000’s of downloads, worked on a 
 of websites, and contributed countless hours to open source.
 • HeyImLea.com,Builthomepageforchatbot,scripteddemowithember+redux.
 • Scout,personalstartupproject.Learnedjavascript,css,webperformance, framing, and scraping. https://github.com/devinrhode2/Scout
-• HMU,Builtteamincollege,developedappforconnectingwithfriendsnearby. • SnapSpeedComputerCare,Startedcomputerrepairserviceinhighschool.
+• HMU,Builtteamincollege,developedappforconnectingwithfriendsnearby.
+• SnapSpeedComputerCare,Startedcomputerrepairserviceinhighschool.
 Education
   "I hired Devin to code a chrome extension that had a Facebook SDK integration component, and some non trivial script injection dependencies. Devin powered through the project in record time, and had a good sense for design and usability while doing the trickier coding parts. He is one of the most talented young coders I've ever met."
 — Sergey Lossev, client
