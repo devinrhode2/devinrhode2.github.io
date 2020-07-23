@@ -15,8 +15,7 @@ Built a simple internal app for one of EPAM’s larger clients, Google.
 Opera • Jun 2015 - Jan 2016
 Originally brought in for a short project for 3 months, was kept on to create a chrome extension for a new consumer app. All UI for extension was contained in a separate ember app, which was effectively a standard mobile site, so extension code rarely/never needed updates. Helped with Node rest api built with express.
 Amobee • Apr 2013 - Aug 2013
-Helped with js side of hybrid native+web 3d ad engine. Upgraded ad markup language
-from xml to Jade templating.
+Helped with js side of hybrid native+web 3d ad engine. Upgraded ad markup language from XML to Jade templating
 Freelance & Startup projects • Since December 2010
 I've written 14 chrome extensions receiving 1,000’s of downloads in total.
 • HeyImLea.com,Builthomepageforchatbot,scripteddemowithember+redux. • Scout,personalstartupproject.Learnedjavascript,css,webperformance,
