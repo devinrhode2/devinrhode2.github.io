@@ -13,8 +13,7 @@ writing washer/dryer programming interface.
 EPAM • Apr 2016 - Jun 2016
 Built a simple internal app for one of EPAM’s larger clients, Google.
 Opera • Jun 2015 - Jan 2016
-Worked on extension for a consumer app. All UI was contained in a separate
-ember app, so extension code rarely/never needs updates. Helped with Node rest api.
+Originally brought in for a short project for 3 months, was kept on to create a chrome extension for a new consumer app. All UI for extension was contained in a separate ember app, which was effectively a standard mobile site, so extension code rarely/never needed updates. Helped with Node rest api built with express.
 Amobee • Apr 2013 - Aug 2013
 Helped with js side of hybrid native+web 3d ad engine. Upgraded ad markup language
 from xml to Jade templating.
