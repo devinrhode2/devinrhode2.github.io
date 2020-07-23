@@ -1,5 +1,5 @@
  Devin Rhode, JavaScript Developer
-devinrhode2.github.io • (218) 290-8275 • DevinRhode2@gmail.com San Francisco Bay Area
+devinrhode2.github.io • (218) 290-8275 • DevinRhode2@gmail.com Greater Minneapolis-St. Paul Area
 JavaScript (ES6) • Ember.js • jQuery • Chrome, Safari, Opera Extensions • Web Scraping Node.js • HTML5 • CSS3 • Animation • LESS, SASS • Bootstrap, Foundation • Markdown Git • Github • Jira • Documentation • Grunt • SQL • Basic Ruby, Python • React • Redux • Lodash
 Work History
 JavaScript Developer, Opera • June 2015 - January 2016 (7.5 months)
