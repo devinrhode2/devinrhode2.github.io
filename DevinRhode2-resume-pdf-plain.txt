@@ -6,6 +6,11 @@ Work History
 Best Buy • Mar 2020 - Jun 2020
 React, Redux, Jest, cypress, reselect, ssr, node, express. Worked on preferred store location cookies, diagnosed and
 patched bug in fetch polyfill affecting iOS 11+10, causing the users store to get incorrectly overwritten with geolocation.
+Robert Half • Nov 2017 - Jan 2020
+BIWorldwide: Jan 2019 - Jan 2020: Worked on several apps with BI's Custom CMS, Q360. Incrementally upgraded the CMS from React 15 => 16, Webpack 1 + Gulp => Webpack 2 => Webpack 3 => Create-React-App + Craco (Webpack 4 wrapper). Built node proxy to allow us to connect our local dev server to any backend, allowing us to simulate our code running in production. Mastered git submodules, and npm scripts, but migrated to classic monorepo. Began typescript migration. Created language debug mode to find hardcoded english. Created versioning system for frontend, allowing us to check the console for exactly what version is deployed at that time in that browser and match it back to a git tag. 
+Allen Interactions: Nov 2018 - Dec 2018: Created learning experiences with heavy animations, CSS3/HTML5/vanilla JS.
+Alliance Laundry Systems: Nov 2017 - Oct 2018: Worked on ember-frontend of laundromat management app, with
+emphasis on re-writing washer/dryer programming interface. Setup sentry.js error dashboard.
 EPAM • Apr 2016 - Jun 2016
 Built a simple internal app for one of EPAM’s larger clients, Google.
 Opera • Jun 2015 - Jan 2016
