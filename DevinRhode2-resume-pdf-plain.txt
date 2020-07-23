@@ -3,7 +3,7 @@ devinrhode2.github.io • (612) 440-5172 • DevinRhode2@gmail.com Greater Minne
 JavaScript (ES6) • Ember.js • React • Redux • Browser Extensions • Web Scraping Node.js • HTML5 • CSS3 • Animation • CSS in JS • Bootstrap & Foundation • Lodash Git • Github • Jira • Documentation • Grunt • Markdown • Basic Ruby & Python • SQL
 Work History
 Alliance Laundry Systems (RHT) • Nov 2017 - Oct 2018
-Worked on ember-frontend of laundromat management app "Speed Queen Insights", with emphasis on the washer/dryer programming interface re-write in web. One notable contribution I made was setting up an error dashboard.
+Worked on ember-frontend of laundromat management app "Speed Queen Insights", with emphasis on the washer/dryer programming interface re-write. One notable contribution I made was setting up an error dashboard.
 EPAM • Apr 2016 - Jun 2016
 Built a simple internal app for one of EPAM’s larger clients, Google.
 Opera • Jun 2015 - Jan 2016
