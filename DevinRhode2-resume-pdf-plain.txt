@@ -1,0 +1,29 @@
+ Devin Rhode, JavaScript Developer
+About.me/DevinRhode2 • (218) 290-8275 • DevinRhode2@gmail.com San Francisco Bay Area
+JavaScript (ES6) • Ember.js • jQuery • Chrome, Safari, Opera Extensions • Scraping Framing • Node.js • HTML5 • CSS3 • Animation • LESS, SASS, Stylus • Bootstrap Foundation • Markdown • Documentation • Git • Grunt • PHP • Basic Ruby, Python
+Work History
+JavaScript Developer, Amobee • April 2013 - August 2013 (5 months)
+Collaborated with C Engineers on a hybrid native/web ad SDK. Developed ads using their proprietary markup language. Made critical contributions to the markup language, resulting in faster development and less duplication.
+Freelancing • June 2011 - March 2013 (1 year, 11 months)
+I've written eleven chrome extensions that have been downloaded thousands
+of times.
+• Scout,10months.Chromeextensionthatstreamlinessearchingtheweb. Became very knowledgeable about javascript, css, web performance optimization, framing, and scraping. [1]
+• TrackIf.com,3months.Designedandimplementedinitialversionsof bookmarklet, Chrome and Safari extensions with code-sharing and live update capabilities.
+• VoteBox2012.com,3months.Partneredwithadesignerandadeveloperto create this website from scratch using jQuery, PHP, Bootstrap, and Facebook Login.
+• HitMeUp,7months.Builtateamanddevelopedthissocialmediaapplication for connecting with friends nearby. Used PHP, MySQL, SVN, Twilio and integrated with Facebook.
+• CribFrog,2months.Collaboratedwiththefounderofthisstartuptoprototype the first version of a social application for residential tenants using PHP.
+• Refactr,2months.Developedachromeextensionandbookmarklettoembed the functionality of their MileMarker product into the browser.
+GitHub Highlights @DevinRhode2
+• TraceKit.js, Popular library for cross-browser stack traces [2]
+• extendFunction.js, Decorate functions in JavaScript [3]
+Education
+University of Minnesota, Duluth 2010-2011
+Focus: Computer Science, Math
+Operated my own computer repair service in high school.
+  "I hired Devin to code a chrome extension that had a Facebook SDK integration component, and some non trivial script injection dependencies. Devin powered through the project in record time, and had a good sense for design and usability while doing the trickier coding parts. He is one of the most talented young coders I've ever met."
+— Sergey Lossev, client
+ "Devin is a very rare type of person. He is the type of student who doesn't look for the grade in a class, but the experience and being able to take something away from it to apply in life."
+— Ehsan Angadjivand,
+classmate
+  [1] https://github.com/devinrhode2/Scout [2] http://bit.ly/TraceKitPulls [3] https://github.com/devinrhode2/extendFunction.js
+   
