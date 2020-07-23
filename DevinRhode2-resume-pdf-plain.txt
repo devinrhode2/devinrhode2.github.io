@@ -1,9 +1,9 @@
- Devin Rhode, Frontend/JS Developer
+ Devin Rhode, JavaScript Developer
 devinrhode2.github.io • (612) 440-5172 • DevinRhode2@gmail.com Greater Minneapolis-St. Paul Area
 JavaScript (ES6) • React • Redux • Browser Extensions • Node.js • Responsive CSS Ember • HTML5 • Sass+Less • Animation • CSS in JS • Bootstrap • Web Scraping Webpack • Babel • Create-React-App+Craco • Gulp+Grunt • Git Hooks+Husky Prettier • ESLint • Stylelint • Accessibility • Http Proxies • Cookies • Cors
 Git • Github • Gitlab • Jira • Markdown • Basic Ruby+Python+Bash+SQL
 Work History
-BIWORLDWIDE • Jan 24th 2019 - Jan 31st 2020
+BIWorldwide • Jan 24th 2019 - Jan 31st 2020
 Worked on several apps with Custom CMS. Upgraded React 15 => 16, Webpack 1 + Gulp => Create-React-App + Craco (Webpack 4). Built node proxy to use data from any backend, with ability to record and re-serve requests. Mastered git submodules, but migrated to classic monorepo. Began typescript migration. Created language debug mode to find hardcoded english.
 Alliance Laundry Systems • Nov 2017 - Oct 2018
 Worked on ember-frontend of laundromat management app, with emphasis on
