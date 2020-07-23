@@ -21,6 +21,7 @@ Freelance & Startup projects • Since December 2010
 I've written 14 chrome extensions receiving 1,000’s of downloads in total.
 • HeyImLea.com,Builthomepageforchatbot,scripteddemowithember+redux. • Scout,personalstartupproject.Learnedjavascript,css,webperformance,
 iframes, and scraping. https://github.com/devinrhode2/Scout
+• HMU,Builtteamincollege,developedappforconnectingwithfriendsnearby. Used SMS with twilio, and PHP on the backend. jQuery on the frontend.
 Education
 University of Minnesota, Duluth 2010-2011 – Focus: Computer Science, Math
   "I hired Devin to code a chrome extension that had a Facebook SDK integration component, and some non trivial script injection dependencies. Devin powered through the project in record time, and had a good sense for design and usability while doing the trickier coding parts. He is one of the most talented young coders I've ever met."
