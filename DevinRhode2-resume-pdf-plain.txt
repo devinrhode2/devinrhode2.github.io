@@ -1,20 +1,23 @@
  Devin Rhode, JavaScript Developer
-devinrhode2.github.io • (218) 290-8275 • DevinRhode2@gmail.com Greater Minneapolis-St. Paul Area
-JavaScript (ES6) • Ember.js • jQuery • Chrome, Safari, Opera Extensions • Web Scraping Node.js • HTML5 • CSS3 • Animation • LESS, SASS • Bootstrap, Foundation • Markdown Git • Github • Jira • Documentation • Grunt • SQL • Basic Ruby, Python • React • Redux • Lodash
+devinrhode2.github.io • (612) 440-5172 • DevinRhode2@gmail.com Greater Minneapolis-St. Paul Area
+JavaScript (ES6) • Ember.js • React • Redux • Browser Extensions • Web Scraping Node.js • HTML5 • CSS3 • Animation • CSS in JS • Bootstrap & Foundation • Lodash Git • Github • Jira • Documentation • Grunt • Markdown • Basic Ruby & Python • SQL
 Work History
-JavaScript Developer, Opera • June 2015 - January 2016 (7.5 months)
-Worked on 2 teams. First project was a network injected javascript toolbar. Second project is a browser extension for a consumer app. The extension is very simple and only does what extensions can do, it contains no UI and instead communicates with a website front-end built with Ember.js. I also worked on the Node.js backend api, supporting the android and iOS clients.
-JavaScript Developer, Amobee • April 2013 - August 2013 (5 months)
+JavaScript Developer, EPAM • Apr 2016 - Jun 2016 (3 mos) Built a simple internal app for one of EPAM’s larger clients, Google.
+JavaScript Developer, Opera • Jun 2015 - Jan 2016 (8 mos)
+My first project was a network injected javascript toolbar. Second project was a browser extension for a consumer app. I made a very simple mobile website with Ember.js to contain all the ui for the extension, so extension updates didn’t need to be published as often. I also helped with the Node.js backend api, supporting the android and iOS clients.
+JavaScript Developer, Amobee • Apr 2013 - Aug 2013 (5 mos)
 Collaborated with C Engineers on a hybrid native/web 3d ad engine. Developed 3d ads for clients, and made critical improvements to the ad language, resulting in faster development and less duplication.
 Freelance & Startup projects • Since December 2010
-I've written thirteen chrome extensions that have been downloaded thousands of times.
+I've written 14 chrome extensions receiving 1,000’s of downloads, worked on a
+number of websites, and contributed countless hours to open source,
+• HeyImLea.com,Builthomepageforchatbot,scripteddemowithember+redux.
 • Scout,personalstartupproject.Chromeextensionthatstreamlinessearching the web. Became very knowledgeable about javascript, css, web performance optimization, framing, and scraping. https://github.com/devinrhode2/Scout
 • TrackIf.com,Designedandimplementedbookmarklet,ChromeandSafari extensions with code-sharing and live update capabilities.
-• VoteBox2012.com,workedwithadesignerandadevelopertocreatethis website from scratch using jQuery, PHP, Bootstrap, and Facebook Login.
-• HitMeUp,Builtateamanddevelopedthissocialmediaapplicationfor connecting with friends nearby. Used PHP, MySQL, SVN, Twilio and integrated with Facebook via chrome extension.
-• Refactr,Developedachromeextensionandbookmarklettoembedthe functionality of their MileMarker product into the browser.
-• CribFrog,Collaboratedwiththefounderofthisstartuptoprototypethefirst version of a social application for residential tenants using PHP.
-• SnapSpeedComputerCare,helpedpeoplewiththeircomputerswhileIwas in high school.
+• VoteBox2012.com,Workedwithadesignerandadevelopertocreatethis website from scratch using jQuery, PHP, Bootstrap, and Facebook Login.
+• HMU,Builtateamanddevelopedthissocialmediaappforconnectingwith friends nearby. Used PHP, MySQL, SVN, Twilio and integrated with Facebook via chrome extension.
+• Refactr,Developedchromeextensionandbookmarklet.
+• SnapSpeedComputerCare,StartedcomputerrepairservicewhileIwasin
+high school.
 Education
 University of Minnesota, Duluth 2010-2011 – Focus: Computer Science, Math
   "I hired Devin to code a chrome extension that had a Facebook SDK integration component, and some non trivial script injection dependencies. Devin powered through the project in record time, and had a good sense for design and usability while doing the trickier coding parts. He is one of the most talented young coders I've ever met."
