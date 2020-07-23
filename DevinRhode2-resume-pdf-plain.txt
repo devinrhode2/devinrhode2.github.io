@@ -1,5 +1,5 @@
  Devin Rhode, JavaScript Developer
-About.me/DevinRhode2 • (218) 290-8275 • DevinRhode2@gmail.com San Francisco Bay Area
+devinrhode2.github.io • (510) 474-0697 • DevinRhode2@gmail.com San Francisco Bay Area
 JavaScript (ES6) • Ember.js • jQuery • Chrome, Safari, Opera Extensions • Scraping Framing • Node.js • HTML5 • CSS3 • Animation • LESS, SASS, Stylus • Bootstrap Foundation • Markdown • Documentation • Git • Grunt • PHP • Basic Ruby, Python
 Work History
 JavaScript Developer, Amobee • April 2013 - August 2013 (5 months)
@@ -25,5 +25,5 @@ Operated my own computer repair service in high school.
  "Devin is a very rare type of person. He is the type of student who doesn't look for the grade in a class, but the experience and being able to take something away from it to apply in life."
 — Ehsan Angadjivand,
 classmate
-  [1] https://github.com/devinrhode2/Scout [2] http://bit.ly/TraceKitPulls [3] https://github.com/devinrhode2/extendFunction.js
+    [1] https://github.com/devinrhode2/Scout [2] http://bit.ly/TraceKitPulls [3] https://github.com/devinrhode2/extendFunction.js
    
