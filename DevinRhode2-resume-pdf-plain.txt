@@ -1,6 +1,6 @@
  Devin Rhode, JavaScript Developer
 devinrhode2.github.io • (218) 290-8275 • DevinRhode2@gmail.com San Francisco Bay Area
-JavaScript (ES6) • Ember.js • jQuery • Chrome, Safari, Opera Extensions • Web Scraping Node.js • HTML5 • CSS3 • Animation • LESS, SASS • Bootstrap, Foundation • Markdown Git • Github • Jira • Documentation • Grunt • SQL • Basic Ruby, Python • React • Redux
+JavaScript (ES6) • Ember.js • jQuery • Chrome, Safari, Opera Extensions • Web Scraping Node.js • HTML5 • CSS3 • Animation • LESS, SASS • Bootstrap, Foundation • Markdown Git • Github • Jira • Documentation • Grunt • SQL • Basic Ruby, Python • React • Redux • Lodash
 Work History
 JavaScript Developer, Opera • June 2015 - January 2016 (7.5 months)
 Worked on 2 teams. First project was a network injected javascript toolbar. Second project is a browser extension for a consumer app. The extension is very simple and only does what extensions can do, it contains no UI and instead communicates with a website front-end built with Ember.js. I also worked on the Node.js backend api, supporting the android and iOS clients.
