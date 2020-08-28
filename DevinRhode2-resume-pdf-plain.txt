@@ -1,13 +1,42 @@
- Devin Rhode, JavaScript Engineer
-github.com/devinrhode2 • devinrhode2.github.io • DevinRhode2@gmail.com Greater Minneapolis-St. Paul Area
-JavaScript (ES6) • React • Redux • Browser Extensions • Node.js • Responsive CSS Ember • HTML5 • Sass+Less • Animation • CSS in JS • Bootstrap • Web Scraping Webpack • Babel • Create-React-App+Craco • Gulp+Grunt • Git Hooks+Husky Prettier • ESLint • Accessibility • Http Proxies • Cookies • Cors • SSR
-Git • Github+Gitlab+Jira • Markdown • Basic Ruby+Python+Bash+SQL
+Devin Rhode, JavaScript Engineer
+github.com/devinrhode2 • devinrhode2.github.io • DevinRhode2@gmail.com
+Location: Greater Minneapolis-St. Paul Area
+Phone number: (612) 440-5172
+
+ATS/keyword optimized resume
+JavaScript: ES6, React, Redux, Browser Extensions, Node, Node.js, Ember, SSR, Derby.js, Express.js, Hapi.js, Hapi
+HTML/Templating: HTML5, HTML, Handlebars.js, JSX, Mustache templating, Lit-HTML, Jade, EJS
+CSS: Responsive CSS, Sass, Scss, Less, Stylus, CSS3 Animations, CSS in JS, Emotion, Emotion.js, Linaria, CSS custom properties, css variables, Styled-Components, Bootstrap, Foundation, Web Scraping
+Webpack 1, Webpack 2, Webpack 3, Webpack 4, Babel, Create-React-App, Craco, Gulp, Grunt, Git Hooks, Husky, Prettier, ESLint, airbnb-eslint, airbnb-typescript, Accessibility
+Http Proxies, Cookies, Cors
+Markdown, Git, Github, Gitlab, Jira, Asana, Basic Ruby, Basic Python, Basic Bash, Basic SQL
+
 Work History
 Best Buy • Mar 2020 - Jun 2020
-React, Redux, Jest, cypress, reselect, ssr, node, express. Worked on preferred store location cookies, diagnosed and
-patched bug in fetch polyfill affecting iOS 11+10, causing the users store to get incorrectly overwritten with geolocation.
-Robert Half • Nov 2017 - Jan 2020
-BIWorldwide: Jan 2019 - Jan 2020: Worked on several apps with BI's Custom CMS, Q360. Incrementally upgraded the CMS from React 15 => 16, Webpack 1 + Gulp => Webpack 2 => Webpack 3 => Create-React-App + Craco (Webpack 4 wrapper). Built node proxy to allow us to connect our local dev server to any backend, allowing us to simulate our code running in production. Mastered git submodules, and npm scripts, but migrated to classic monorepo. Began typescript migration. Created language debug mode to find hardcoded english. Created versioning system for frontend, allowing us to check the console for exactly what version is deployed at that time in that browser and match it back to a git tag. 
+- Learned frontend GVP (Global View Platform) architecture based on React, Redux, Reselect, Node, Express, SSR, Akamai, ESI, Live-Config (internal tool), and internal analytics library.
+- Worked with component-centric/multi-repo/npm
+- Learned Unit testing with Jest, Cypress, Istanbul, and visual regression testing with Backstop.js.
+- Developed Cypress integration tests against HTML5 canvas tags (bing maps).
+- Developed strategy for managing bing maps api keys for bestbuy.com.
+- Created proposals for managing cookies across multiple separate pages on bestbuy.com (One using ES6 Proxies)
+- Diagnosed+patched bug in fetch polyfill affecting iOS 11+10, causing the users store to get incorrectly overwritten with geolocation.
+- Created proposal for improving PR workflow by improving guidelines for when to use git rebase and when to not use git rebase
+- Learned how to turn a directory of a monorepo into it's own git repo, while retaining just the commits that affect that folder
+- Learned how to combine multiple git repos into one, while retaining history
+
+Robert Half • Feb 2017 - Jan 2020
+BIWorldwide: Jan 2019 - Jan 2020:
+ - Worked on several apps with BI's Custom CMS, Q360. Incrementally upgraded the CMS, averaged 50 hours per week.
+ - Upgraded from React 15 to 16.8+/latest
+ - Upgraded build setup from Webpack 1 + Gulp to Webpack 2, then Webpack 3, and finally Create-React-App + Craco(Webpack 4 wrapper).
+ - Researched automated testing strategies and tools
+ - Researched CMS architectures (PS Wagtail is awesome!)
+ - Built node http proxy to allow us to connect our local dev server to any backend, allowing us to check our code  - running in production.
+ - Mastered git submodules, and npm scripts, but migrated to classic monorepo.
+ - Began typescript migration.
+ - Created language debug mode to find hardcoded english.
+ - Created versioning system for frontend, allowing us to check the console for exactly what version is deployed at that time in that browser and match it back to a git tag. 
+ - Setup Sentry.js error dashboard
 Allen Interactions: Nov 2018 - Dec 2018: Created learning experiences with heavy animations, CSS3/HTML5/vanilla JS.
 Alliance Laundry Systems: Nov 2017 - Oct 2018: Worked on ember-frontend of laundromat management app, with
 emphasis on re-writing washer/dryer programming interface. Setup sentry.js error dashboard.
@@ -24,6 +53,8 @@ iframes, and scraping. https://github.com/devinrhode2/Scout
 • HMU,Builtteamincollege,developedappforconnectingwithfriendsnearby. Used SMS with twilio, and PHP on the backend. jQuery on the frontend.
 Education
 University of Minnesota, Duluth 2010-2011 – Focus: Computer Science, Math
+
+Recommendations:
   "I hired Devin to code a chrome extension that had a Facebook SDK integration component, and some non trivial script injection dependencies. Devin powered through the project in record time, and had a good sense for design and usability while doing the trickier coding parts. He is one of the most talented young coders I've ever met."
 — Sergey Lossev, client
  "Devin has been a very significant contributor"
