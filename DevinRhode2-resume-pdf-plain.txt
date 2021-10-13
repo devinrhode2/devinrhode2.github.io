@@ -11,6 +11,26 @@ Webpack 1, Webpack 2, Webpack 3, Webpack 4, Babel, Create-React-App, Craco, Gulp
 Http Proxies, Cookies, Cors
 Markdown, Git, Github, Gitlab, Jira, Asana, Basic Ruby, Basic Python, Basic Bash, Basic SQL
 
+OLD OLD
+Expert Skills: (references not needed)
+     Javascript  •  Ember+Ember-CLI  •  Browser extensions  •  HTML5  •  Site framing with and w/o iframes  •  CSS3  •  Animation  •  Markdown  •  Documentation  •  Git  •  jQuery
+Solid Skills: (references needed sparingly)
+     Angular  •  Grunt  •  JSHint  •  Node.js+Express+Hapi  •  LESS+Bootstrap+Foundation+SASS+Stylus  •  Ruby
+
+"Expert" Skills: very little or no reference needed
+●	Browser extension api's and bookmarklets
+●	HTML/HTML5, especially iframes and localStorage
+●	CSS/CSS3, especially advanced selectors and transitions
+●	Markdown, Jade, Stylus
+"Solid" Skills: will need documentation in1termittenly
+●	Ember (and all it's goodies), Angular
+●	Grunt, JSHint
+●	Node.js/Express
+●	PHP, Wordpress
+●	LESS, Bootstrap, Foundation
+Currently studying: Ember, Ember-cli, Ruby, Rails, human relations, psychology
+
+
 Work History
 Best Buy • Mar 2020 - Jun 2020
 - Learned frontend GVP (Global View Platform) architecture based on React, Redux, Reselect, Node, Express, SSR, Akamai, ESI, Live-Config (internal tool), and internal analytics library.
@@ -46,11 +66,76 @@ emphasis on re-writing washer/dryer programming interface. Setup sentry.js error
 EPAM • Apr 2016 - Jun 2016
 Built a simple internal app for one of EPAM’s larger clients, Google.
 
+
 Opera • Jun 2015 - Jan 2016
-Originally brought in for a short project for 3 months, was kept on to create a chrome extension for a new consumer app. All UI for extension was contained in a separate ember app, which was effectively a standard mobile site, so extension code rarely/never needed updates. Helped with Node rest api built with express.
+Originally brought in for a short project for 3 months. My contract was extended to work on a browser extension for a new consumer app. All UI for this extension was contained in a separate ember app, which was effectively a standard mobile site, so the extension code almost never needed updates. Helped with Node rest api built with express.
+
+
+2014, I spent traveling, studying Ember.js, ruby and vim.
+
+
 
 Amobee • Apr 2013 - Aug 2013
 Helped with js side of hybrid native+web 3d ad engine. Upgraded ad markup language from XML to Jade templating
+
+Collaborated with C Engineers on a hybrid native/web 3d ad engine.
+Developed 3d ads for clients, and made critical improvements to the ad
+language, resulting in faster development and less duplication.
+
+My javascript expertise was brought in to compliment the C and graphics expertise for Amobee's hybrid native/web Ad SDK known as Pulse 3D. I made some critical improvements to the ad
+language, resulting in faster development and less code duplication.
+
+Amobee was a great experience for me.
+I had a great manager Aneesh Karve and good co-workers
+but I think the compensation was not matched for my performance,
+and after a few months Aneesh knew he had to push me harder
+but I refused to work more than 40 hours a week. I regret that.
+I didn't know how to cope and perform better.
+I didn't know how to manage expectations under pressure.
+The relationship busted, and I quit.
+
+During my time at Amobee I developed ads in a proprietary ad xml language,
+and created development tools for abstracting and dynamically using chunks of xml.
+I prototyped it with ejs and then started the official watcher in jade.
+
+
+    Winter 2013: TrackIf • 2 months • Made a bookmarklet, Safari, and Chrome extensions from the same set of javascript.
+
+      Worked on TraceKit.js
+
+      Created tweet bar
+
+    Fall 2012: Vote Box • 2.5 months • Made a voting site using jQuery, bootstrap, php, and Facebook login.
+
+    Summer 2012: Launched Scout, started focusing on open source instead of another project
+
+    Winter 2012: Continued Freelancing in California
+        Notably, I made Molly-m-augustin.com for a friend, a facebook chrome extension for Thred.in, and a LinkedIn chrome extension for SuccessFactors.com.
+
+
+    Fall 2011: Started at Refactr
+        I spent most of my time making a chrome extension for their product MileMarker.
+
+    Late Summer 2011: Started Scout, 10 month startup project
+        HitMeUp was fun, but after finals, I was the only one still coding. I integrated HitMeUp directly into Facebook with a chrome extension, but a social network is probably too much work for one person. I switched focus to my original search project under a new name, Scout. Screenshot of scout
+
+
+    Summer 2011: Started Freelancing Full-time
+        My first paid project was a wordpress ecommerce site, the second was another php gig.
+
+    Spring 2011: Started HitMeUp, 7 month startup project
+        I was very inspired by The Social Network and disappointed with Foursquare's ability to connect me with friends nearby, so I built a team and we created a social network to do exactly that. We used PHP/MySQL, SVN, and Twillio for SMS.
+
+    Fall 2010: Started CS at University of Minnesota Duluth
+        After learning to code fall term, I spent all winter break figuring out how to make Google faster and more streamlined. (Screenshots from sweet search videos)
+
+    High School:
+        After delivering papers and working at McDonalds for a few years, I started a computer repair service. Through tutoring at school and assisting seniors with their computers I became very passionate about usability. Boy Scouts and other youth groups showed me I'm a natural leader.
+
+Github highlights:
+     •  Tweet-bar, Tweet from the omnibar in chrome
+     •  extendFunction.js, Easily overwrite functions with additional functionality
+
 
 Freelance & Startup projects • Since December 2010
   I've written 14 chrome extensions receiving 1,000’s of downloads in total.
